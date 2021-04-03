@@ -1,0 +1,7 @@
+/home/leo/workspace/task/src/main/java/br/com/llpassarelli/dao/TaskDaoImpl.java
+/home/leo/workspace/task/src/main/java/br/com/llpassarelli/config/WebAppInitializer.java
+/home/leo/workspace/task/src/main/java/br/com/llpassarelli/entity/Task.java
+/home/leo/workspace/task/src/main/java/br/com/llpassarelli/config/TaskDbConfig.java
+/home/leo/workspace/task/src/main/java/br/com/llpassarelli/controller/TaskController.java
+/home/leo/workspace/task/src/main/java/br/com/llpassarelli/config/TaskWebConfig.java
+/home/leo/workspace/task/src/main/java/br/com/llpassarelli/dao/TaskDao.java
