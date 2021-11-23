@@ -1,6 +1,6 @@
 # README #
 
-### Aplicação para gerecnciamento de senhas para fila de espera ###
+### Aplicação para gerenciamento de senhas para fila de espera ###
 
 * Version 1.0 beta
 
